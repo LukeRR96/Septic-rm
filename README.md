@@ -6,9 +6,7 @@
 
 #### Heading 3
 
+Lee County Septic System.        
 
-Lee County Septic System           
-     This is a paragraph
-     
-     This is a paragraph
-          
+This is a paragraph         
+This is a paragraph
